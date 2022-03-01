@@ -20,5 +20,5 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Reminder
+Esta app funciona como PWA solo en modo producción, en mi caso use una extension de chrome llamada "Web server for Chrome", cargando el /dist de la app
